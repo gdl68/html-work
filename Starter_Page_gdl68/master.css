@@ -1,0 +1,47 @@
+a {
+  color:lightgreen;
+  font-size:150%;
+  align-items:right;
+
+}
+a:hover{
+  color:#6C5BA1;
+  background-blend-mode:color-burn;
+}
+a.shortcut{
+  font-family: "Consolas" ;
+}
+.greeting{
+  font-family: "consolas";
+  font-style: italic;
+}
+
+
+body{
+  background-image:url('background.jpg');
+  color:rgb(237, 237, 239);
+  margin-left:25%;
+  font-family:Verdana,sans-serif;
+}
+article{margin-left: 23px;}
+
+
+audio {margin-top:7px;}
+h3 {font-size: 250%; font-family:Impact; margin-left: 6px;}
+section{background-color:rgba(0, 51, 102,0.5); width:300px; margin:30px;}
+
+
+
+dt {
+  margin-top:8px;
+}
+dd {
+  margin-left:15%;
+}
+
+
+header{background-color:rgba(153, 0, 51, 0.1); width:450px; margin:30px;}
+
+#loli{width:400px; border-radius:150px; margin: 30px;}
+
+/*don't forget to deal with red square behind loli */
