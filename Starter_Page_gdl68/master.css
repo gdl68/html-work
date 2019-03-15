@@ -14,6 +14,7 @@ a.shortcut{
 .greeting{
   font-family: "consolas";
   font-style: italic;
+  margin:8px;
 }
 
 
@@ -22,12 +23,14 @@ body{
   color:rgb(237, 237, 239);
   margin-left:25%;
   font-family:Verdana,sans-serif;
+  text-align: left;
+
 }
 article{margin-left: 23px;}
 
 
 audio {margin-top:7px;}
-h3 {font-size: 250%; font-family:Impact; margin-left: 6px;}
+h3 {font-size: 250%; font-family:Verdana; font-style: oblique; margin-left: 6px; font-variant: small-caps;}
 section{background-color:rgba(0, 51, 102,0.5); width:300px; margin:30px;}
 
 
@@ -40,7 +43,7 @@ dd {
 }
 
 
-header{background-color:rgba(153, 0, 51, 0.1); width:450px; margin:30px;}
+header{background-color:rgba(153, 0, 51, 0.2); width:450px; margin:30px; margin-left: -5%;}
 
 #loli{width:400px; border-radius:150px; margin: 30px;}
 
